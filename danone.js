@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<link rel="stylesheet" href="suco.css">
-<script src="danone.js"></script>
-<body>
-    
-<h2>Primeiro Contato com Java Script</h2><br>
 
-<button onclick="Japinha()">Clique aqui</button>
-
-
-<script>
 function Japinha(){
 let nome= prompt("Digite seu Nome:");
 let numero= prompt("Digite um numero:");
@@ -30,6 +14,3 @@ alert("Essa é sua Música Favorita: " + musica)
 alert("Esse é sue Artista Favorito: " + artista)
 
 }
-</script>
-</body>
-</html>
