@@ -1,4 +1,3 @@
-
 function Japinha(){
 let nome= prompt("Digite seu Nome:");
 let numero= prompt("Digite um numero:");
